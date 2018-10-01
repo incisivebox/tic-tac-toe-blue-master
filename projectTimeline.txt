@@ -1,0 +1,2 @@
+Finished original implementation 2/11/2017 with Ryan Jacobs, Zach Gray, and Josh Harlan
+New class based implementation will be completed by next week.
