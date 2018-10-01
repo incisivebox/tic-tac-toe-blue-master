@@ -1,4 +1,5 @@
 # Tic-Tac-Toe Project
+# Note: No commit history as this had to be copied from a private repository
 # Team Blue
 # Ryan Jacobs, Josh Harlan, Zach Gray
 
